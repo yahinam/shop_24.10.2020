@@ -1,0 +1,132 @@
+{"products": [
+  {
+    "id_product": "f1",
+    "product_name": "Mango People T-shirt",
+    "price": 50,
+    "img": "1.png",
+    "featured": "true"
+  },
+  {
+    "id_product": "f2",
+    "product_name": "Mango People T-shirt",
+    "price": 60,
+    "img": "2.png",
+    "featured": "true"
+  },
+  {
+    "id_product": "fm3",
+    "product_name": "Mango People backpack",
+    "price": 70,
+    "img": "3.png",
+    "featured": "true",
+    "gender": "man"
+  },
+  {
+    "id_product": "f4",
+    "product_name": "Mango People T-shirt",
+    "price": 80,
+    "img": "4.png",
+    "featured": "true"
+  },
+  {
+    "id_product": "f5",
+    "product_name": "Mango People T-shirt",
+    "price": 90,
+    "img": "5.png",
+    "featured": "true"
+  },
+  {
+    "id_product": "fm6",
+    "product_name": "Mango People panama hat",
+    "price": 100,
+    "img": "6.png",
+    "featured": "true",
+    "gender": "man"
+  },
+  {
+    "id_product": "f7",
+    "product_name": "Mango People T-shirt",
+    "price": 110,
+    "img": "7.png",
+    "featured": "true"
+  },
+  {
+    "id_product": "fm8",
+    "product_name": "Mango People shorts",
+    "price": 120,
+    "img": "8.png",
+    "featured": "true",
+    "gender": "man"
+  },
+  {
+    "id_product": "m9",
+    "product_name": "Mango People parka",
+    "price": 130,
+    "img": "product_1.png",
+    "gender": "man"
+  },
+  {
+    "id_product": "m10",
+    "product_name": "Mango People coat",
+    "price": 140,
+    "img": "product_2.png",
+    "gender": "man"
+  },
+  {
+    "id_product": "m11",
+    "product_name": "Mango People T-shirt",
+    "price": 30,
+    "img": "product_4.png",
+    "gender": "man"
+  },
+  {
+    "id_product": "m12",
+    "product_name": "Mango People bomber",
+    "price": 52,
+    "img": "product_6.png",
+    "gender": "man"
+  },
+  {
+    "id_product": "m13",
+    "product_name": "Mango People jacket",
+    "price": 52,
+    "img": "product_8.png",
+    "gender": "man"
+  },
+  {
+    "id_product": "m14",
+    "product_name": "Mango People T-shirt",
+    "price": 45,
+    "img": "product_9.png",
+    "gender": "man"
+  },
+  {
+    "id_product": "w1",
+    "product_name": "Mango People T-shirt",
+    "price": 52,
+    "img": "item_1.png",
+    "gender": "woman"
+  },
+  {
+    "id_product": "w2",
+    "product_name": "Mango People T-shirt",
+    "price": 52,
+    "img": "item_2.png",
+    "gender": "woman"
+  },
+  {
+    "id_product": "w3",
+    "product_name": "Mango People T-shirt",
+    "price": 52,
+    "img": "item_3.png",
+    "gender": "woman"
+  },
+  {
+    "id_product": "w4",
+    "product_name": "Mango People T-shirt",
+    "price": 52,
+    "img": "item_4.png",
+    "gender": "woman"
+  }
+]
+}
